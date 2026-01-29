@@ -1,0 +1,23 @@
+# Build directories
+x64/Debug/
+x64/Release/
+FeiJiDaZhan/x64/Debug/
+FeiJiDaZhan/x64/Release/
+
+# Visual Studio workspace files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Compiled binaries
+*.exe
+*.pdb
+*.idb
+*.tlog
+*.recipe
+
+# OS generated files
+Thumbs.db
+.DS_Store
