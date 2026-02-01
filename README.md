@@ -1,7 +1,7 @@
-#Aircraft Shooting Game
+# Aircraft Shooting Game
 A 2D aircraft shooting game built with C++ and EasyX.
 
-##Features
+## Features
 - Mouse-controlled player aircraft
 - Enemy spawning and bullet system
 - Collision detection
@@ -9,7 +9,7 @@ A 2D aircraft shooting game built with C++ and EasyX.
 - Game over screen with score display
 - Frame rate control for smooth gameplay
 
-##Tech Stack
+## Tech Stack
 - C++
 - EasyX
 - Object-Oriented Programming (OOP)
